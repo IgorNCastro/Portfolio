@@ -10,6 +10,7 @@ h1 {
   text-shadow: red -3px 0, cyan 3px 0;
   font-size: 10vw;
 }
+
 .main-section {
   display: flex;
 }
@@ -43,6 +44,12 @@ h1 {
 
 .list-itens {
   display: flex;
+  justify-content: space-around;
+}
+
+.about-text {
+  display: flex;
+  align-items: center;
   justify-content: space-around;
 }
 
@@ -252,5 +259,11 @@ button:focus-visible{
     justify-content: flex-end;
     align-items: center;
     margin: 50px 0 0 0;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .about-text {
+    flex-direction: column;
   }
 }
