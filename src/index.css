@@ -220,6 +220,10 @@ button:focus-visible{
   outline-offset: 1px;
 }
 
+#skills, #portfolio {
+  margin-top: 100px;
+}
+
 .block-skills {
   text-align: center;
   margin: 30px 70px;
@@ -265,5 +269,11 @@ button:focus-visible{
 @media only screen and (max-width: 750px) {
   .about-text {
     flex-direction: column;
+  }
+
+  h4 {
+    margin: 20px;
+    text-align: justify;
+    width: 80%;
   }
 }
