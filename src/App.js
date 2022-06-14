@@ -185,7 +185,7 @@ function App() {
           </div>
           <div className="block">
             <img
-              className="object-cover w-full h-72"
+              className="object-cover w-96 h-72"
               src={ticTacToe}
               alt="Screenshot of Tic Tac Toe site"
             />
