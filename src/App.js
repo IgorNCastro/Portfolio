@@ -1,4 +1,5 @@
 import './index.css';
+import patternpad from "./gallery/patternpad.png";
 import igor from "./gallery/igor.jpg";
 import html from "./gallery/icons/html.png";
 import css from "./gallery/icons/css.png";
@@ -22,6 +23,13 @@ function App() {
   return (
     <main className="main-section">
       <section className="page-section">
+        <div>
+          <img
+            className="w-full"
+            src={patternpad}
+            alt="Pattern"
+          />
+        </div>
         <header className="header-section">
           <div className="max-w-screen-xl px-4 mx-auto sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-16">

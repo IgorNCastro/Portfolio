@@ -19,14 +19,14 @@ h1 {
   width: 82%;
 }
 
-.header-section {
+/*.header-section {
   background-image: url("./gallery/patternpad.jpeg");
   max-width: 100%;
   height: 800px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+}*/
 
 .header-navigation {
   background-color: #FAFAFA;
