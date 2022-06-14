@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3b353afb.css",
-    "main.js": "/portfolio/static/js/main.df960a07.js",
+    "main.css": "/portfolio/static/css/main.d000bf25.css",
+    "main.js": "/portfolio/static/js/main.e4fd8152.js",
     "static/media/solarSystem.png": "/portfolio/static/media/solarSystem.f6c7f7069e5d8d0ec508.png",
     "static/media/igor.jpg": "/portfolio/static/media/igor.9fe3b01a953a73a05bbf.jpg",
     "static/media/gifMaker.gif": "/portfolio/static/media/gifMaker.49141a8f284b3b8d9b38.gif",
     "static/media/footguess.png": "/portfolio/static/media/footguess.eadfa30ff1efd234b6b8.png",
     "static/media/tryunfo.png": "/portfolio/static/media/tryunfo.9a0f108be2c5dcf58582.png",
     "static/media/wallet.png": "/portfolio/static/media/wallet.01f01d589d4aa68c4c4e.png",
-    "static/media/patternpad.jpeg": "/portfolio/static/media/patternpad.0651dc998fbc094339c3.jpeg",
+    "static/media/patternpad.png": "/portfolio/static/media/patternpad.bb8b62be4f2b51abd898.png",
     "static/media/trivia.png": "/portfolio/static/media/trivia.004a32f4159e9194bc07.png",
     "static/media/ticTacToe.png": "/portfolio/static/media/ticTacToe.efcd05d0d7ac5dadaa5c.png",
     "static/media/jest.png": "/portfolio/static/media/jest.0aa26516f0b9285d2c5c.png",
@@ -18,11 +18,11 @@
     "static/media/redux.png": "/portfolio/static/media/redux.4bebbe1e5361c338b767.png",
     "static/media/git.png": "/portfolio/static/media/git.396a5b09533ba7efb6af.png",
     "index.html": "/portfolio/index.html",
-    "main.3b353afb.css.map": "/portfolio/static/css/main.3b353afb.css.map",
-    "main.df960a07.js.map": "/portfolio/static/js/main.df960a07.js.map"
+    "main.d000bf25.css.map": "/portfolio/static/css/main.d000bf25.css.map",
+    "main.e4fd8152.js.map": "/portfolio/static/js/main.e4fd8152.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b353afb.css",
-    "static/js/main.df960a07.js"
+    "static/css/main.d000bf25.css",
+    "static/js/main.e4fd8152.js"
   ]
 }
